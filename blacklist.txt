@@ -4,3 +4,4 @@ api.ad.xiaomi.com
 googleadservices.com
 ads.pinterest.com
 ads.tiktok.com
+xvideos.com
