@@ -5,5 +5,5 @@ zen.yandex.ru
 rbk.ru
 rbc.ru
 s.rbk.ru
-*cloud63.ru
+cloud63.ru
 ad.cloud63.ru
