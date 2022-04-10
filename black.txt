@@ -1,0 +1,6 @@
+rosenberg.appmetrica.yandex.net
+leonardo.osnova.io
+api.ad.xiaomi.com
+googleadservices.com
+ads.pinterest.com
+ads.tiktok.com
